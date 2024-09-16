@@ -1,0 +1,19 @@
+# ninja log v5
+0	365	7481466386619331	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+367	921	7481466392107573	network_assign_1.exe	5333187d2422a8
+2	130	7481466744964453	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+132	354	7481466747123766	network_assign_1.exe	5333187d2422a8
+2	210	7481469889356420	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+211	412	7481469891455743	network_assign_1.exe	5333187d2422a8
+3	120	7481470155761017	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+121	303	7481470157510450	network_assign_1.exe	5333187d2422a8
+3	140	7481470296315958	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+141	381	7481470298665200	network_assign_1.exe	5333187d2422a8
+3	204	7481478232981603	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+205	539	7481478236270541	network_assign_1.exe	5333187d2422a8
+3	149	7481482115676880	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+149	453	7481482118475980	network_assign_1.exe	5333187d2422a8
+2	116	7481482547178546	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+116	307	7481482548997968	network_assign_1.exe	5333187d2422a8
+4	290	7481484514967855	CMakeFiles/network_assign_1.dir/main.c.obj	48f974ac1fae6dba
+291	554	7481484517616995	network_assign_1.exe	5333187d2422a8
