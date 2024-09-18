@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "network_assign_1.exe"
-		},
-		{
-			"path" : "network_assign_1.pdb"
+			"path" : "network_assign_1"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu11 -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics"
 				}
 			],
 			"language" : "C",
@@ -68,16 +65,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "network_assign_1",
-	"nameOnDisk" : "network_assign_1.exe",
+	"nameOnDisk" : "network_assign_1",
 	"paths" : 
 	{
 		"build" : ".",
